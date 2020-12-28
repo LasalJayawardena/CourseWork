@@ -1,9 +1,8 @@
-This the University Coursework Repo
-===================================
+Database Coursework
+===================
 
 
-Complete all tasks before 2021 January 1st.
+## Due date: Week 11 - 8th December 2020 
 
-## Main priority : Finalize DB Coursewrok
 
-Add a report and clear doubts
+* Do All Tasks
